@@ -20,9 +20,9 @@
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/fsu-tech/portafolio-fran.git
-Ábrelo con Android Studio
+2.- Ábrelo con Android Studio
 
-Ejecuta la app en un emulador o dispositivo Android real
+3.- Ejecuta la app en un emulador o dispositivo Android real
 
 👨‍💻 Autor
 Francisco Sánchez – LinkedIn
