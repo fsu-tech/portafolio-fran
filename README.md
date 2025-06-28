@@ -24,8 +24,11 @@
 
 3.- Ejecuta la app en un emulador o dispositivo Android real
 
-👨‍💻 Autor
-Francisco Sánchez – LinkedIn
+## 👤 Autor
+Francisco Sánchez – LinkedIn: https://www.linkedin.com/in/francisco-s%C3%A1nchez-uceta-2a35b2360/
+
+
+
 
 
 
