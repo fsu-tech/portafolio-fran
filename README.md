@@ -14,3 +14,9 @@ Sitio web personal con secciones sobre mí, novelas, novedades y más. Incluye d
 
 📁 [Ver proyecto](./Belenmonterogutierrez)
 
+### 🐍 Juego-Serpiente
+Implementación del clásico juego Snake en JavaScript. Adaptado para mostrar habilidades en desarrollo web interactivo con control por teclado, detección de colisiones y diseño responsive.
+
+📁 [Ver proyecto](./Juego-Serpiente)
+
+
