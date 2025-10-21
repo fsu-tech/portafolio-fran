@@ -19,4 +19,10 @@ Implementación del clásico juego Snake en JavaScript. Adaptado para mostrar ha
 
 📁 [Ver proyecto](./Juego-Serpiente)
 
+### 🤖 WABOT-RRHH
+Bot conversacional para la gestión de recursos humanos, diseñado para automatizar procesos de atención, consulta y comunicación interna. Integrado como parte de mi portafolio para mostrar habilidades en desarrollo backend y lógica conversacional.
+
+📁 [Ver proyecto](./WABOT-RRHH)
+
+
 
