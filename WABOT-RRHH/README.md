@@ -42,7 +42,7 @@ npm install
 Desarrollado por ATIC-MBE.
 # 🚀 Proce-Bot
 
-¡Hecho por Jose Luis y Alexandro ft ATICMBE! ✨
+¡Hecho por Francisco y José Luis ft ATICMBE! ✨
 
 ## 📋 Descripción
 Este proyecto te permite enviar mensajes de WhatsApp de forma automatizada usando Node.js y Google Sheets. ¡Ideal para bots, envíos masivos y automatización! 💬📊
