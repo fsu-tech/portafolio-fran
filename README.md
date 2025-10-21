@@ -1,6 +1,6 @@
 # 🚀 Portafolio de Fran
 
-Bienvenido a mi portafolio de proyectos. Aquí encontrarás aplicaciones desarrolladas en Android (usando Kotlin, Java y otras tecnologías) y proyectos web.
+Bienvenido a mi portafolio de proyectos. Aquí encontrarás aplicaciones desarrolladas en Android (usando Kotlin, Java, JavaScript y otras tecnologías) y proyectos web.
 
 ## 📦 Proyectos
 
