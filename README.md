@@ -19,10 +19,17 @@ Implementación del clásico juego Snake en JavaScript. Adaptado para mostrar ha
 
 📁 [Ver proyecto](./Juego-Serpiente)
 
-### 🤖 WABOT-RRHH
-Bot conversacional para la gestión de recursos humanos, diseñado para automatizar procesos de atención, consulta y comunicación interna. Integrado como parte de mi portafolio para mostrar habilidades en desarrollo backend y lógica conversacional.
+### 🧱 Arquitectura Cliente-Servidor + BBDD
+Proyecto web que implementa una arquitectura cliente-servidor con conexión a base de datos. Incluye:
 
-📁 [Ver proyecto](./WABOT-RRHH)
+- **Frontend Tienda**: interfaz de usuario desarrollada con Angular.
+- **Backend Tienda**: servidor Express con endpoints RESTful y conexión a base de datos.
+
+📁 [Ver frontend](./Arquitectura%20Cliente-Servidor%20+BBDD/frontend-tienda)  
+📁 [Ver backend](./Arquitectura%20Cliente-Servidor%20+BBDD/backend-tienda)
+
+
+
 
 
 
