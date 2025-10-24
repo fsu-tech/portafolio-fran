@@ -1,0 +1,20 @@
+<header class="header">
+	<div class="logo">
+		<!-- Puedes reemplazar este texto por una imagen si tienes un logo -->
+		<span>ModaShop</span>
+	</div>
+	<nav class="nav">
+		<ul>
+			<li><a routerLink="/">Inicio</a></li>
+			<li><a routerLink="/productos">Productos</a></li>
+			<li><a routerLink="/ofertas">Ofertas</a></li>
+			<li><a routerLink="/contacto">Contacto</a></li>
+		</ul>
+	</nav>
+		<div class="cart">
+			<svg width="28" height="28" fill="none" viewBox="0 0 24 24">
+				<path fill="#e91e63" d="M7 20a2 2 0 1 0 0 4 2 2 0 0 0 0-4Zm10 2a2 2 0 1 1 0-4 2 2 0 0 1 0 4ZM7.16 16h9.68a2 2 0 0 0 1.97-1.68l1.2-6A2 2 0 0 0 18.04 6H6.21l-.31-1.55A2 2 0 0 0 4 2H2v2h2l3.6 7.59-1.35 2.44A2 2 0 0 0 6 16h1.16ZM6.16 14l1.1-2h7.45a1 1 0 0 0 .98-.8l1.2-6H6.21l-.31-1.55A2 2 0 0 0 4 2H2v2h2l3.6 7.59-1.35 2.44A2 2 0 0 0 6 16h1.16Z"/>
+			</svg>
+			<span class="cart-count">{{ cartCount }}</span>
+		</div>
+</header>
