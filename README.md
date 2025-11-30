@@ -1,6 +1,6 @@
 # 🚀 Portafolio de Fran
 
-Bienvenido a mi portafolio de proyectos. Aquí encontrarás aplicaciones desarrolladas en Android (usando Kotlin, Java, JavaScript y otras tecnologías) y proyectos web.
+Bienvenido a mi portafolio de proyectos. Aquí encontrarás aplicaciones desarrolladas en varios entornos de desarrollo como Visual Studio Code, Android Studio (usando Java, JavaScript, Angular, React, Kotlin y otras tecnologías). Hay tanto aplicaciones web como móviles.
 
 ## 📦 Proyectos
 
@@ -10,7 +10,7 @@ Aplicación Android para rutas de senderismo con mapas GPX, estadísticas, gesti
 📁 [Ver proyecto](./NatuRutas)
 
 ### 🌐 Belenmonterogutierrez
-Sitio web personal con secciones sobre mí, novelas, novedades y más. Incluye diseño responsive, estilos personalizados y scripts interactivos.
+Sitio web personal con secciones sobre la escritora Belén Montero Gutiérrez, novelas, novedades y más. Incluye diseño responsive, estilos personalizados y scripts interactivos.
 
 📁 [Ver proyecto](./Belenmonterogutierrez)
 
