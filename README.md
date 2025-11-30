@@ -1,6 +1,6 @@
 # 🚀 Portafolio de Fran
 
-Bienvenido a mi portafolio de proyectos. Aquí encontrarás aplicaciones desarrolladas en varios entornos de desarrollo como Visual Studio Code, Android Studio (usando Java, JavaScript, Angular, React, Kotlin y otras tecnologías). Hay tanto aplicaciones web como móviles.
+Bienvenido a mi portafolio de proyectos. Aquí encontrarás aplicaciones desarrolladas en varios entornos de desarrollo como Visual Studio Code, Android Studio (usando Java, JavaScript, Angular, React, Kotlin y otras tecnologías). Hay aplicaciones web y móviles.
 
 ## 📦 Proyectos
 
