@@ -25,7 +25,7 @@ Proyecto web que implementa una arquitectura cliente-servidor con conexión a ba
 - **Frontend Tienda**: interfaz de usuario desarrollada con Angular.
 - **Backend Tienda**: servidor Express con endpoints RESTful y conexión a base de datos.
 
-📁 [Ver proyecto Juego-Serpiente](https://github.com/fsu-tech/Juego-Serpiente)
+📁 [Ver proyecto Arquitectura Cliente-Servidor +BBDD](https://github.com/fsu-tech/Arquitectura-Cliente-Servidor-BBDD)
 
 
 
