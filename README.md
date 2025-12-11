@@ -27,7 +27,10 @@ Proyecto web que implementa una arquitectura cliente-servidor con conexión a ba
 
 📁 [Ver proyecto Arquitectura Cliente-Servidor +BBDD](https://github.com/fsu-tech/Arquitectura-Cliente-Servidor-BBDD)
 
+### 🏬 miPrimerProyecto  
+Recreación de una página web de tienda utilizando **HTML y CSS**. Incluye diseño de la interfaz, catálogo de productos y estilos personalizados para una experiencia visual atractiva y responsive.  
 
+📁 [Ver proyecto](https://github.com/fsu-tech/miPrimerProyecto)
 
 
 
