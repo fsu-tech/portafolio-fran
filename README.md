@@ -27,11 +27,12 @@ Proyecto web que implementa una arquitectura cliente-servidor con conexión a ba
 
 📁 [Ver proyecto Arquitectura Cliente-Servidor +BBDD](https://github.com/fsu-tech/Arquitectura-Cliente-Servidor-BBDD)
 
+### 🔄 Migracion_de_Pagina
+Migración de una página web desde HTML, CSS y JavaScript al framework Angular con TypeScript. Demuestra habilidades en modernización de aplicaciones web y uso de tecnologías actuales.
+
+📁 [Ver proyecto](https://github.com/fsu-tech/Migracion_de_Pagina)
+
 ### 🏬 miPrimerProyecto  
-Recreación de una página web de tienda utilizando **HTML y CSS**. Incluye diseño de la interfaz, catálogo de productos y estilos personalizados para una experiencia visual atractiva y responsive.  
+Recreación de una página web de tienda utilizando **HTML y CSS**. Incluye diseño de la interfaz, catálogo de productos y estilos personalizados para una experiencia visual atractiva y responsiva.
 
 📁 [Ver proyecto](https://github.com/fsu-tech/miPrimerProyecto)
-
-
-
-
