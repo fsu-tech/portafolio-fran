@@ -32,7 +32,7 @@ Migración de una página web desde HTML, CSS y JavaScript al framework Angular 
 
 📁 [Ver proyecto](https://github.com/fsu-tech/Migracion_de_Pagina)
 
-### 🏬 miPrimerProyecto  
+### 🏬 Tienda  
 Recreación de una página web de tienda utilizando **HTML y CSS**. Incluye diseño de la interfaz, catálogo de productos y estilos personalizados para una experiencia visual atractiva y responsiva.
 
-📁 [Ver proyecto](https://github.com/fsu-tech/miPrimerProyecto)
+📁 [Ver proyecto](https://github.com/fsu-tech/Tienda)
