@@ -36,3 +36,8 @@ Migración de una página web desde HTML, CSS y JavaScript al framework Angular 
 Recreación de una página web de tienda utilizando **HTML y CSS**. Incluye diseño de la interfaz, catálogo de productos y estilos personalizados para una experiencia visual atractiva y responsiva.
 
 📁 [Ver proyecto](https://github.com/fsu-tech/Tienda)
+
+### 🏛️ Proyecto_Civica
+Proyecto incluido en mi portafolio que presenta trabajo práctico orientado al ámbito cívico y desarrollo web.
+
+📁 [Ver proyecto](https://github.com/fsu-tech/Proyecto_Civica)
