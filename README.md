@@ -38,6 +38,6 @@ Recreación de una página web de tienda utilizando **HTML y CSS**. Incluye dise
 📁 [Ver proyecto](https://github.com/fsu-tech/Tienda)
 
 ### 🏛️ Proyecto_Civica
-Proyecto incluido en mi portafolio que presenta trabajo práctico orientado al ámbito cívico y desarrollo web.
+Proyecto de ingeniería de datos realizado con dbt Cloud para transformar y analizar la telemetría generada por la app NatuRutas, con el objetivo de construir métricas de negocio, identificar patrones de comportamiento y apoyar la toma de decisiones basada en datos.
 
 📁 [Ver proyecto](https://github.com/fsu-tech/Proyecto_Civica)
